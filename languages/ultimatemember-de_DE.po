@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: POEditor.com\n"
-"Project-Id-Version: um\n"
+"Project-Id-Version: ultimatemember-de_DE\n"
 "Language: de\n"
 
 #: admin/core/lib/ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:530
@@ -2417,7 +2417,7 @@ msgstr ""
 
 #: admin/templates/directory/profile.php:156
 msgid "Show social connect icons"
-msgstr ""
+msgstr "Social Media Icons zeigen"
 
 #: admin/templates/directory/profile_card.php:3
 msgid "Profile card background"
@@ -2425,7 +2425,7 @@ msgstr ""
 
 #: admin/templates/directory/profile_card.php:7
 msgid "Profile card text"
-msgstr ""
+msgstr "Text Profilcard"
 
 #: admin/templates/directory/profile_card.php:11
 msgid "Profile card border color"
@@ -2441,47 +2441,47 @@ msgstr ""
 
 #: admin/templates/directory/search.php:6
 msgid "Enable Search feature"
-msgstr ""
+msgstr "Suchfunktion einschalten"
 
 #: admin/templates/directory/search.php:15
 msgid "User Roles that can use search"
-msgstr ""
+msgstr "Welche Nutzerrollen dürfen suchen?"
 
 #: admin/templates/directory/search.php:28
 msgid "Choose field(s) to enable in search"
-msgstr ""
+msgstr "Welche Suchfelder?"
 
 #: admin/templates/directory/search.php:76
 msgid "Results Text"
-msgstr ""
+msgstr "Text Suchergebnisse"
 
 #: admin/templates/directory/search.php:76
 msgid "Customize the search result text . e.g. Found 3,000 Members. Leave this blank to not show result text"
-msgstr ""
+msgstr "Folgende Mitfrauen wurden gefunden"
 
 #: admin/templates/directory/search.php:79 core/um-setup.php:47 core/um-setup.php:150
 msgid "{total_users} Members"
-msgstr ""
+msgstr "{total_users}  Mitfrauen"
 
 #: admin/templates/directory/search.php:85
 msgid "Single Result Text"
-msgstr ""
+msgstr "Einzelresultat"
 
 #: admin/templates/directory/search.php:85
 msgid "Same as above but in case of 1 user found only"
-msgstr ""
+msgstr "Eine Mitfrau gefunden"
 
 #: admin/templates/directory/search.php:88 core/um-setup.php:48 core/um-setup.php:151
 msgid "{total_users} Member"
-msgstr ""
+msgstr "{total_users}  Mitfrau"
 
 #: admin/templates/directory/search.php:94
 msgid "Custom text if no users were found"
-msgstr ""
+msgstr "Keine Ergebnisse, Textanzeige"
 
 #: admin/templates/directory/search.php:97 core/um-setup.php:49
 msgid "We are sorry. We cannot find any users who match your search criteria."
-msgstr ""
+msgstr "Leider konnten wir keine Mitfrauen finden."
 
 #: admin/templates/form/builder.php:14
 msgid "Live Preview"
@@ -2489,7 +2489,7 @@ msgstr ""
 
 #: admin/templates/form/builder.php:28
 msgid "Add Master Row"
-msgstr ""
+msgstr "Hauptzeile anlegen"
 
 #: admin/templates/form/login_css.php:4 admin/templates/form/profile_css.php:4
 #: admin/templates/form/register_css.php:4
@@ -2499,7 +2499,7 @@ msgstr ""
 #: admin/templates/form/login_customize.php:4 admin/templates/form/profile_customize.php:4
 #: admin/templates/form/register_customize.php:4
 msgid "Use global settings?"
-msgstr ""
+msgstr "Zentrale Einstellungen verwenden?"
 
 #: admin/templates/form/login_customize.php:26 admin/templates/form/profile_customize.php:38
 #: admin/templates/form/register_customize.php:38
@@ -2509,71 +2509,71 @@ msgstr ""
 #: admin/templates/form/login_customize.php:30 admin/templates/form/profile_customize.php:46
 #: admin/templates/form/register_customize.php:42
 msgid "Alignment"
-msgstr ""
+msgstr "Ausrichtung"
 
 #: admin/templates/form/login_customize.php:40 admin/templates/form/profile_customize.php:56
 #: admin/templates/form/register_customize.php:52
 msgid "Field Icons"
-msgstr ""
+msgstr "Icons?"
 
 #: admin/templates/form/login_customize.php:50 admin/templates/form/profile_customize.php:66
 #: admin/templates/form/register_customize.php:62
 msgid "Primary Button Text"
-msgstr ""
+msgstr "Text erster Button"
 
 #: admin/templates/form/login_customize.php:54 admin/templates/form/profile_customize.php:70
 #: admin/templates/form/register_customize.php:66
 msgid "Primary Button Color"
-msgstr ""
+msgstr "Text zweiter Button"
 
 #: admin/templates/form/login_customize.php:58 admin/templates/form/profile_customize.php:74
 #: admin/templates/form/register_customize.php:70
 msgid "Primary Button Hover Color"
-msgstr ""
+msgstr "Erster Button Farbe Mouseover"
 
 #: admin/templates/form/login_customize.php:62 admin/templates/form/profile_customize.php:78
 #: admin/templates/form/register_customize.php:74
 msgid "Primary Button Text Color"
-msgstr ""
+msgstr "Erster Button Farbe Text"
 
 #: admin/templates/form/login_customize.php:67 admin/templates/form/profile_customize.php:83
 #: admin/templates/form/register_customize.php:79
 msgid "Show Secondary Button"
-msgstr ""
+msgstr "Zeige zweiten Button?"
 
 #: admin/templates/form/login_customize.php:75 admin/templates/form/profile_customize.php:91
 #: admin/templates/form/register_customize.php:87
 msgid "Secondary Button Text"
-msgstr ""
+msgstr "Zweiter Button Text"
 
 #: admin/templates/form/login_customize.php:79 admin/templates/form/profile_customize.php:95
 #: admin/templates/form/register_customize.php:91
 msgid "Secondary Button Color"
-msgstr ""
+msgstr "Erster Button Farbe"
 
 #: admin/templates/form/login_customize.php:83 admin/templates/form/profile_customize.php:99
 #: admin/templates/form/register_customize.php:95
 msgid "Secondary Button Hover Color"
-msgstr ""
+msgstr "Erster Button Farbe Mouseover"
 
 #: admin/templates/form/login_customize.php:87 admin/templates/form/profile_customize.php:103
 #: admin/templates/form/register_customize.php:99
 msgid "Secondary Button Text Color"
-msgstr ""
+msgstr "Erster Button Farbe Text"
 
 #: admin/templates/form/login_customize.php:92
 msgid "Show Forgot Password Link?"
-msgstr ""
+msgstr "PW vergessen anzeigen?"
 
 #: admin/templates/form/login_settings.php:3
 msgid "Redirection after Login"
-msgstr ""
+msgstr "Weiterleitung nach Login"
 
 #: admin/templates/form/login_settings.php:16 admin/templates/role/delete.php:18
 #: admin/templates/role/login.php:20 admin/templates/role/logout.php:18 admin/templates/role/register.php:37
 #: admin/templates/role/register.php:75 admin/templates/role/register.php:113
 msgid "Set Custom Redirect URL"
-msgstr ""
+msgstr "eigene Weiterleitung"
 
 #: admin/templates/form/mode.php:6
 msgid "<strong>Note:</strong> Form type cannot be changed for the default forms."
@@ -2581,15 +2581,15 @@ msgstr ""
 
 #: admin/templates/form/mode.php:9 um-config.php:1347
 msgid "Registration Form"
-msgstr ""
+msgstr "Anmeldeformular"
 
 #: admin/templates/form/mode.php:11
 msgid "Profile Form"
-msgstr ""
+msgstr "Profilformular"
 
 #: admin/templates/form/mode.php:13 um-config.php:1438
 msgid "Login Form"
-msgstr ""
+msgstr "Loginformular"
 
 #: admin/templates/form/profile_customize.php:14
 msgid "Make this profile role-specific"
@@ -2621,15 +2621,15 @@ msgstr ""
 
 #: admin/templates/form/profile_customize.php:136 um-config.php:1156
 msgid "Circle"
-msgstr ""
+msgstr "Kreis"
 
 #: admin/templates/form/profile_customize.php:137 um-config.php:1157
 msgid "Rounded Corners"
-msgstr ""
+msgstr "Runde Ecken"
 
 #: admin/templates/form/profile_customize.php:138 um-config.php:1158
 msgid "Square"
-msgstr ""
+msgstr "Rechteck"
 
 #: admin/templates/form/profile_customize.php:143
 msgid "Header Background Color"
@@ -2673,7 +2673,7 @@ msgstr ""
 
 #: admin/templates/form/register_customize.php:14
 msgid "Assign role to form"
-msgstr ""
+msgstr "Rolle zuweisen zu Formular"
 
 #: admin/templates/form/register_customize.php:42 um-config.php:1052 um-config.php:1373 um-config.php:1464
 msgid "The shortcode is centered by default unless you specify otherwise here"
@@ -2681,11 +2681,11 @@ msgstr ""
 
 #: admin/templates/form/register_customize.php:52
 msgid "Whether to show field icons and where to show them relative to the field"
-msgstr ""
+msgstr "Icons? Und wo, relativ zum Feld?"
 
 #: admin/templates/form/register_customize.php:62 admin/templates/form/register_customize.php:87
 msgid "Customize the button text"
-msgstr ""
+msgstr "Button Text anpassen"
 
 #: admin/templates/form/register_customize.php:66
 msgid "Override the default primary button color"
@@ -2713,7 +2713,7 @@ msgstr ""
 
 #: admin/templates/modal/dynamic_edit_field.php:6
 msgid "Edit Field"
-msgstr ""
+msgstr "Feld bearbeiten"
 
 #: admin/templates/modal/dynamic_edit_field.php:14 admin/templates/modal/dynamic_edit_row.php:14
 msgid "Update"
@@ -2725,11 +2725,11 @@ msgstr ""
 #: core/um-actions-profile.php:259 core/um-actions-profile.php:269 core/um-actions-profile.php:394
 #: core/um-fields.php:1202 core/um-fields.php:1287
 msgid "Cancel"
-msgstr ""
+msgstr "Abbrechen"
 
 #: admin/templates/modal/dynamic_edit_row.php:6
 msgid "Edit Row Settings"
-msgstr ""
+msgstr "Zeileneinstellungen bearbeiten"
 
 #: admin/templates/modal/dynamic_form_preview.php:4
 msgid "Live Form Preview"
@@ -2737,24 +2737,24 @@ msgstr ""
 
 #: admin/templates/modal/dynamic_form_preview.php:12
 msgid "Continue editing"
-msgstr ""
+msgstr "Weiter bearbeiten"
 
 #: admin/templates/modal/dynamic_new_divider.php:6
 msgid "Add a New Divider"
-msgstr ""
+msgstr "Teiler hinzufügen"
 
 #: admin/templates/modal/dynamic_new_divider.php:14 admin/templates/modal/dynamic_new_field.php:14
 #: admin/templates/modal/dynamic_new_group.php:14
 msgid "Add"
-msgstr ""
+msgstr "Hinzufügen"
 
 #: admin/templates/modal/dynamic_new_field.php:6
 msgid "Add a New Field"
-msgstr ""
+msgstr "Neues Feld"
 
 #: admin/templates/modal/dynamic_new_group.php:6
 msgid "Add a New Field Group"
-msgstr ""
+msgstr "Neue Feldgruppe"
 
 #: admin/templates/modal/dynamic_registration_preview.php:4
 msgid "Review Registration Details"
@@ -2762,7 +2762,7 @@ msgstr ""
 
 #: admin/templates/modal/fields.php:4
 msgid "Fields Manager"
-msgstr ""
+msgstr "Feldermanager"
 
 #: admin/templates/modal/fonticons.php:4
 msgid "Choose from %s available icons"
@@ -2770,7 +2770,7 @@ msgstr ""
 
 #: admin/templates/role/admin.php:7 admin/templates/role/admin.php:16
 msgid "Can access wp-admin?"
-msgstr ""
+msgstr "Zugang Backend?"
 
 #: admin/templates/role/admin.php:7
 msgid "The core admin role must always have access to wp-admin / WordPress backend"
@@ -2778,11 +2778,11 @@ msgstr ""
 
 #: admin/templates/role/admin.php:11 admin/templates/role/admin.php:20
 msgid "Force hiding adminbar in frontend?"
-msgstr ""
+msgstr "Adminbar immer verstecken?"
 
 #: admin/templates/role/admin.php:11 admin/templates/role/admin.php:20
 msgid "Show/hide the adminbar on frontend"
-msgstr ""
+msgstr "Adminbar verstecken?"
 
 #: admin/templates/role/admin.php:16
 msgid "Allow this role to access the admin dashboard. If turned on the WordPress toolbar will appear at top of the page."
@@ -2790,15 +2790,15 @@ msgstr ""
 
 #: admin/templates/role/admin.php:26
 msgid "Can edit other member accounts?"
-msgstr ""
+msgstr "Accountbearbeitung?"
 
 #: admin/templates/role/admin.php:26
 msgid "Allow this role to edit accounts of other members"
-msgstr ""
+msgstr "&nbsp;"
 
 #: admin/templates/role/admin.php:31
 msgid "Can edit these user roles only"
-msgstr ""
+msgstr "Kann nur diese Rollen bearbeiten"
 
 #: admin/templates/role/admin.php:31
 msgid "Which roles that role can edit, choose none to allow role to edit all member roles"
@@ -2806,15 +2806,15 @@ msgstr ""
 
 #: admin/templates/role/admin.php:44
 msgid "Can delete other member accounts?"
-msgstr ""
+msgstr "Accountlöschung?"
 
 #: admin/templates/role/admin.php:44
 msgid "Allow this role to edit the profile fields of certain roles only"
-msgstr ""
+msgstr "&nbsp;"
 
 #: admin/templates/role/admin.php:49
 msgid "Can delete these user roles only"
-msgstr ""
+msgstr "&nbsp;"
 
 #: admin/templates/role/admin.php:49
 msgid "Which roles that role can delete, choose none to allow role to delete all member roles"
@@ -2822,7 +2822,7 @@ msgstr ""
 
 #: admin/templates/role/delete.php:6
 msgid "Action to be taken after account is deleted"
-msgstr ""
+msgstr "Aktion nach Löschung"
 
 #: admin/templates/role/delete.php:6
 msgid "Select what happens when a user with this role deletes their own account"
@@ -2846,11 +2846,11 @@ msgstr ""
 
 #: admin/templates/role/general.php:6
 msgid "Can this role edit his own profile?"
-msgstr ""
+msgstr "Eigenes Profil bearbeiten?"
 
 #: admin/templates/role/general.php:11
 msgid "Can delete their account?"
-msgstr ""
+msgstr "Eigenes Profil löschen?"
 
 #: admin/templates/role/general.php:11
 msgid "Allow this role to delete their account and end their membership on your site"
@@ -2874,7 +2874,7 @@ msgstr ""
 
 #: admin/templates/role/login.php:6
 msgid "Action to be taken after login"
-msgstr ""
+msgstr "Aktion nach Login"
 
 #: admin/templates/role/login.php:6
 msgid "Select what happens when a user with this role logins to your site"
@@ -2903,7 +2903,7 @@ msgstr ""
 
 #: admin/templates/role/logout.php:6
 msgid "Action to be taken after logout"
-msgstr ""
+msgstr "Aktion nach Logout"
 
 #: admin/templates/role/logout.php:6
 msgid "Select what happens when a user with this role logouts of your site"
@@ -2947,7 +2947,7 @@ msgstr ""
 
 #: admin/templates/role/register.php:6
 msgid "Registration Status"
-msgstr ""
+msgstr "Status Anmeldung"
 
 #: admin/templates/role/register.php:6
 msgid "Select the status you would like this user role to have after they register on your site"
@@ -2959,16 +2959,16 @@ msgstr ""
 
 #: admin/templates/role/register.php:14
 msgid "Require Email Activation"
-msgstr ""
+msgstr "Double-Opt-In?"
 
 #: admin/templates/role/register.php:15
 msgid "Require Admin Review"
-msgstr ""
+msgstr "Adminprüfung nötig?"
 
 #: admin/templates/role/register.php:25 admin/templates/role/register.php:52
 #: admin/templates/role/register.php:90
 msgid "Action to be taken after registration"
-msgstr ""
+msgstr "Aktion nach Anmeldung"
 
 #: admin/templates/role/register.php:25 admin/templates/role/register.php:52
 #: admin/templates/role/register.php:90
@@ -3005,15 +3005,15 @@ msgstr ""
 
 #: admin/um-admin-init.php:51 core/um-taxonomies.php:18
 msgid "Forms"
-msgstr ""
+msgstr "Formulare"
 
 #: admin/um-admin-init.php:53 core/um-taxonomies.php:36
 msgid "User Roles"
-msgstr ""
+msgstr "Rollen/Gruppen"
 
 #: admin/um-admin-init.php:56 core/um-taxonomies.php:56
 msgid "Member Directories"
-msgstr ""
+msgstr "Mitfrauensuche Frontend"
 
 #: admin/um-admin-init.php:82
 msgid "Please create a team.php template in admin templates."
@@ -3022,7 +3022,7 @@ msgstr ""
 #: core/um-actions-account.php:28 core/um-actions-account.php:97 core/um-actions-account.php:142
 #: core/um-actions-account.php:294 core/um-builtin.php:818 core/um-builtin.php:821
 msgid "Delete Account"
-msgstr ""
+msgstr "Lösche Account"
 
 #: core/um-actions-account.php:82 core/um-actions-password.php:121
 msgid "Your password must contain at least 8 characters"
@@ -3126,7 +3126,7 @@ msgstr ""
 
 #: core/um-actions-form.php:207
 msgid "Please enter a valid phone number"
-msgstr ""
+msgstr "Telefonnummer ist nicht valide"
 
 #: core/um-actions-form.php:213 core/um-actions-form.php:219 core/um-actions-form.php:225
 #: core/um-actions-form.php:231 core/um-actions-form.php:237 core/um-actions-form.php:243
@@ -3135,39 +3135,39 @@ msgstr ""
 
 #: core/um-actions-form.php:250 core/um-actions-form.php:264
 msgid "You must provide a username"
-msgstr ""
+msgstr "Nutzernname fehlt"
 
 #: core/um-actions-form.php:252 core/um-actions-form.php:266
 msgid "Your username is already taken"
-msgstr ""
+msgstr "Nutzernname existiert bereits"
 
 #: core/um-actions-form.php:254
 msgid "Username cannot be an email"
-msgstr ""
+msgstr "Nutzernname darf nicht E-Mail sein"
 
 #: core/um-actions-form.php:256 core/um-actions-form.php:270
 msgid "Your username contains invalid characters"
-msgstr ""
+msgstr "Nutzernname enthält unerlaubte Zeichen"
 
 #: core/um-actions-form.php:268 core/um-actions-form.php:280
 msgid "This email is already linked to an existing account"
-msgstr ""
+msgstr "E-Mail Adresse existiert bereits"
 
 #: core/um-actions-form.php:278
 msgid "You must provide your email"
-msgstr ""
+msgstr "E-Mail Adresse fehlt"
 
 #: core/um-actions-form.php:282
 msgid "This is not a valid email"
-msgstr ""
+msgstr "E-Mail Adresse nicht korrekt"
 
 #: core/um-actions-form.php:284
 msgid "Your email contains invalid characters"
-msgstr ""
+msgstr "E-Mail Adresse "
 
 #: core/um-actions-form.php:298
 msgid "Your user description must contain less than %s characters"
-msgstr ""
+msgstr "Sie müssen weniger als % Zeichen verwenden"
 
 #: core/um-actions-global.php:28
 msgid "Only fill in if you are not human"
@@ -3175,15 +3175,15 @@ msgstr ""
 
 #: core/um-actions-login.php:16
 msgid "Please enter your username or email"
-msgstr ""
+msgstr "Nutzername oder E-Mail"
 
 #: core/um-actions-login.php:20
 msgid "Please enter your username"
-msgstr ""
+msgstr "Nutzername eingeben"
 
 #: core/um-actions-login.php:24
 msgid "Please enter your email"
-msgstr ""
+msgstr "E-Mail Adresse eingeben"
 
 #: core/um-actions-login.php:48
 msgid " Sorry, we can't find an account with that email address"
@@ -3195,27 +3195,27 @@ msgstr ""
 
 #: core/um-actions-login.php:54
 msgid "Please enter your password"
-msgstr ""
+msgstr "Passwort angeben"
 
 #: core/um-actions-login.php:69
 msgid "Password is incorrect. Please try again."
-msgstr ""
+msgstr "Passwort ist nicht korrekt."
 
 #: core/um-actions-login.php:207
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Passwort vergessen?"
 
 #: core/um-actions-members.php:60
 msgid "Search"
-msgstr ""
+msgstr "Suchen"
 
 #: core/um-actions-members.php:60
 msgid "Reset"
-msgstr ""
+msgstr "Zurücksetzen"
 
 #: core/um-actions-members.php:119
 msgid "Jump to page:"
-msgstr ""
+msgstr "Zu Seite:"
 
 #: core/um-actions-members.php:123
 msgid "%s of %d"
@@ -3223,11 +3223,11 @@ msgstr ""
 
 #: core/um-actions-misc.php:58 core/um-actions-misc.php:85
 msgid "Registration is currently disabled"
-msgstr ""
+msgstr "%s von %d "
 
 #: core/um-actions-misc.php:65
 msgid "You have successfully changed your password."
-msgstr ""
+msgstr "Passwort erfolgreich geändert"
 
 #: core/um-actions-misc.php:69
 msgid "Your account is now active! You can login."
@@ -3315,7 +3315,7 @@ msgstr ""
 
 #: core/um-actions-profile.php:306
 msgid "Tell us a bit about yourself..."
-msgstr ""
+msgstr "Kurzinfo über Sie"
 
 #: core/um-actions-profile.php:316
 msgid "This user account status is %s"
@@ -3323,11 +3323,11 @@ msgstr ""
 
 #: core/um-actions-profile.php:391
 msgid "Edit Profile"
-msgstr ""
+msgstr "Profil bearbeiten"
 
 #: core/um-actions-profile.php:392
 msgid "My Account"
-msgstr ""
+msgstr "Mein Konto"
 
 #: core/um-actions-profile.php:393
 msgid "Logout"
